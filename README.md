@@ -1,4 +1,4 @@
-# File Renamer App
+# File Naming Convention Changer
 
 The File Renamer App is a Windows Forms application developed in C#. It provides a user-friendly interface to rename multiple files in a directory according to a specified naming convention. This application integrates a Python script to handle the renaming logic, ensuring flexibility and powerful customization capabilities.
 
